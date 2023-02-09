@@ -1,0 +1,205 @@
+geomaster_name,admin_level,centroid_lon,centroid_lat,month,year,population_groups_concat,individuals,country_name,last_update
+Sicily,Province,14.25,37.75,12,2014,Mediterranean Sea Arrivals,109528,Italy,2016-12-22
+Calabria,Province,16.5,39.0,12,2014,Mediterranean Sea Arrivals,22503,Italy,2016-12-22
+Apulia,Province,16.7338,41.0,12,2014,Mediterranean Sea Arrivals,17485,Italy,2016-12-22
+Campania,Province,14.9205,40.91,12,2014,Mediterranean Sea Arrivals,9351,Italy,2016-12-22
+Sardinia,Province,9.0,40.0,12,2014,Mediterranean Sea Arrivals,160,Italy,2016-12-22
+Liguria,Province,8.8333,44.5,12,2014,Mediterranean Sea Arrivals,108,Italy,2016-12-22
+Sicily,Province,14.25,37.75,12,2015,Mediterranean Sea Arrivals,104709,Italy,2016-12-22
+Calabria,Province,16.5,39.0,12,2015,Mediterranean Sea Arrivals,29437,Italy,2016-12-22
+Apulia,Province,16.7338,41.0,12,2015,Mediterranean Sea Arrivals,11190,Italy,2016-12-22
+Sardinia,Province,9.0,40.0,12,2015,Mediterranean Sea Arrivals,5451,Italy,2016-12-22
+Campania,Province,14.9205,40.91,12,2015,Mediterranean Sea Arrivals,2556,Italy,2016-12-22
+Liguria,Province,8.8333,44.5,12,2015,Mediterranean Sea Arrivals,499,Italy,2016-12-22
+Sicily,Province,14.25,37.75,12,2016,Mediterranean Sea Arrivals,123706,Italy,2017-01-29
+Calabria,Province,16.5,39.0,12,2016,Mediterranean Sea Arrivals,31450,Italy,2017-01-29
+Apulia,Province,16.7338,41.0,12,2016,Mediterranean Sea Arrivals,12331,Italy,2017-01-29
+Sardinia,Province,9.0,40.0,12,2016,Mediterranean Sea Arrivals,9078,Italy,2017-01-29
+Campania,Province,14.9205,40.91,12,2016,Mediterranean Sea Arrivals,4871,Italy,2017-01-29
+Sicily,Province,14.25,37.75,12,2017,Mediterranean Sea Arrivals,76798,Italy,2017-12-31
+Calabria,Province,16.5,39.0,12,2017,Mediterranean Sea Arrivals,23633,Italy,2017-12-31
+Campania,Province,14.9205,40.91,12,2017,Mediterranean Sea Arrivals,6953,Italy,2017-12-31
+Apulia,Province,16.7338,41.0,12,2017,Mediterranean Sea Arrivals,6444,Italy,2017-12-31
+Sardinia,Province,9.0,40.0,12,2017,Mediterranean Sea Arrivals,5541,Italy,2017-12-31
+Sicily,Province,14.25,37.75,12,2018,Mediterranean Sea Arrivals,19076,Italy,2018-12-31
+Calabria,Province,16.5,39.0,12,2018,Mediterranean Sea Arrivals,2196,Italy,2018-12-31
+Apulia,Province,16.7338,41.0,12,2018,Mediterranean Sea Arrivals,1100,Italy,2018-12-31
+Sardinia,Province,9.0,40.0,12,2018,Mediterranean Sea Arrivals,590,Italy,2018-12-31
+Sicily,Province,14.25,37.75,12,2019,Mediterranean Sea Arrivals,7155,Italy,2019-12-31
+Calabria,Province,16.5,39.0,12,2019,Mediterranean Sea Arrivals,1637,Italy,2019-12-31
+Apulia,Province,16.7338,41.0,12,2019,Mediterranean Sea Arrivals,1630,Italy,2019-12-31
+Sardinia,Province,9.0,40.0,12,2019,Mediterranean Sea Arrivals,894,Italy,2019-12-31
+Liguria,Province,8.8333,44.5,12,2019,Mediterranean Sea Arrivals,100,Italy,2019-12-31
+Basilicata,Province,16.0814131848,40.5025567552,12,2019,Mediterranean Sea Arrivals,55,Italy,2019-12-31
+Sicily,Province,14.25,37.75,12,2020,Mediterranean Sea Arrivals,27310,Italy,2021-01-11
+Calabria,Province,16.5,39.0,12,2020,Mediterranean Sea Arrivals,3131,Italy,2020-12-31
+Apulia,Province,16.7338,41.0,12,2020,Mediterranean Sea Arrivals,1940,Italy,2020-12-31
+Sardinia,Province,9.0,40.0,12,2020,Mediterranean Sea Arrivals,1568,Italy,2020-12-31
+Campania,Province,14.9205,40.91,12,2020,Mediterranean Sea Arrivals,16,Italy,2020-12-31
+Sicily,Province,14.25,37.75,12,2021,Mediterranean Sea Arrivals,50773,Italy,2021-12-31
+Calabria,Province,16.5,39.0,12,2021,Mediterranean Sea Arrivals,11664,Italy,2021-12-31
+Apulia,Province,16.7338,41.0,12,2021,Mediterranean Sea Arrivals,3264,Italy,2021-12-31
+Sardinia,Province,9.0,40.0,12,2021,Mediterranean Sea Arrivals,1720,Italy,2021-12-31
+Campania,Province,14.9205,40.91,12,2021,Mediterranean Sea Arrivals,32,Italy,2021-12-31
+Basilicata,Province,16.0814131848,40.5025567552,12,2021,Mediterranean Sea Arrivals,24,Italy,2021-12-31
+Sicily,Province,14.25,37.75,12,2022,Mediterranean Sea Arrivals,79016,Italy,2022-12-31
+Calabria,Province,16.5,39.0,12,2022,Mediterranean Sea Arrivals,18100,Italy,2022-12-31
+Apulia,Province,16.7338,41.0,12,2022,Mediterranean Sea Arrivals,4908,Italy,2022-12-31
+Sardinia,Province,9.0,40.0,12,2022,Mediterranean Sea Arrivals,2103,Italy,2022-12-31
+Campania,Province,14.9205,40.91,12,2022,Mediterranean Sea Arrivals,641,Italy,2022-12-31
+Tuscany,Province,11.134427540399995,43.4650252589,12,2022,Mediterranean Sea Arrivals,250,Italy,2022-12-31
+Emilia-Romagna,Province,11.0359638141,44.5275064726,12,2022,Mediterranean Sea Arrivals,113,Italy,2022-12-31
+Lesvos,Settlement,26.2766,39.2035,12,2014,Mediterranean Sea Arrivals,9453,Greece,2016-12-21
+Chios,Settlement,26.0244,38.4058,12,2014,Mediterranean Sea Arrivals,6009,Greece,2016-12-21
+Samos,Settlement,26.8,37.75,12,2014,Mediterranean Sea Arrivals,5393,Greece,2016-12-21
+Other Islands,Settlement,25.48828125,36.94989178681279,12,2014,Mediterranean Sea Arrivals,4682,Greece,2016-01-01
+Kos,Settlement,27.1667,36.8333,12,2014,Mediterranean Sea Arrivals,2990,Greece,2016-12-21
+Leros,Settlement,26.8425,37.1467,12,2014,Mediterranean Sea Arrivals,2477,Greece,2016-12-21
+Symi,Settlement,27.8378,36.6125,12,2014,Mediterranean Sea Arrivals,2271,Greece,2016-12-21
+Tilos,Settlement,27.3742,36.4244,12,2014,Mediterranean Sea Arrivals,1586,Greece,2016-12-21
+Kalymnos,Settlement,26.9811,36.9758,12,2014,Mediterranean Sea Arrivals,1367,Greece,2016-12-21
+Agathonisi,Settlement,26.968,37.4623,12,2014,Mediterranean Sea Arrivals,1348,Greece,2016-12-21
+Crete,Province,25.059814453125,35.18278813800229,12,2014,Mediterranean Sea Arrivals,226,Greece,2016-12-21
+Lesvos,Settlement,26.2766,39.2035,12,2015,Mediterranean Sea Arrivals,506919,Greece,2016-12-21
+Chios,Settlement,26.0244,38.4058,12,2015,Mediterranean Sea Arrivals,120556,Greece,2016-12-21
+Samos,Settlement,26.8,37.75,12,2015,Mediterranean Sea Arrivals,73134,Greece,2016-12-21
+Kos,Settlement,27.1667,36.8333,12,2015,Mediterranean Sea Arrivals,58503,Greece,2016-12-21
+Leros,Settlement,26.8425,37.1467,12,2015,Mediterranean Sea Arrivals,31618,Greece,2016-12-21
+Agathonisi,Settlement,26.968,37.4623,12,2015,Mediterranean Sea Arrivals,31226,Greece,2016-12-21
+Other Islands,Settlement,25.48828125,36.94989178681279,12,2015,Mediterranean Sea Arrivals,13377,Greece,2016-01-01
+Kalymnos,Settlement,26.9811,36.9758,12,2015,Mediterranean Sea Arrivals,9926,Greece,2016-12-21
+Kastellorizo,Settlement,29.5829,36.1435,12,2015,Mediterranean Sea Arrivals,5708,Greece,2016-12-21
+Symi,Settlement,27.8378,36.6125,12,2015,Mediterranean Sea Arrivals,3984,Greece,2016-12-21
+Crete,Province,25.059814453125,35.18278813800229,11,2015,Mediterranean Sea Arrivals,896,Greece,2016-12-21
+Tilos,Settlement,27.3742,36.4244,11,2015,Mediterranean Sea Arrivals,876,Greece,2016-12-21
+Lesvos,Settlement,26.2766,39.2035,12,2016,Mediterranean Sea Arrivals,96740,Greece,2016-12-31
+Chios,Settlement,26.0244,38.4058,12,2016,Mediterranean Sea Arrivals,40589,Greece,2016-12-31
+Samos,Settlement,26.8,37.75,12,2016,Mediterranean Sea Arrivals,14064,Greece,2016-12-31
+Leros,Settlement,26.8425,37.1467,12,2016,Mediterranean Sea Arrivals,8914,Greece,2016-12-31
+Kos,Settlement,27.1667,36.8333,12,2016,Mediterranean Sea Arrivals,5265,Greece,2016-12-31
+Kastellorizo,Settlement,29.5829,36.1435,12,2016,Mediterranean Sea Arrivals,3946,Greece,2016-12-31
+Other Islands,Settlement,25.48828125,36.94989178681279,12,2016,Mediterranean Sea Arrivals,1470,Greece,2016-12-31
+Agathonisi,Settlement,26.968,37.4623,12,2016,Mediterranean Sea Arrivals,1243,Greece,2016-12-31
+Kalymnos,Settlement,26.9811,36.9758,12,2016,Mediterranean Sea Arrivals,918,Greece,2016-12-31
+Crete,Province,25.059814453125,35.18278813800229,12,2016,Mediterranean Sea Arrivals,218,Greece,2016-12-31
+Symi,Settlement,27.8378,36.6125,12,2016,Mediterranean Sea Arrivals,43,Greece,2016-12-31
+Tilos,Settlement,27.3742,36.4244,12,2016,Mediterranean Sea Arrivals,40,Greece,2016-12-31
+Lesvos,Settlement,26.2766,39.2035,12,2017,Mediterranean Sea Arrivals,12741,Greece,2017-12-31
+Chios,Settlement,26.0244,38.4058,12,2017,Mediterranean Sea Arrivals,6598,Greece,2017-12-31
+Samos,Settlement,26.8,37.75,12,2017,Mediterranean Sea Arrivals,5630,Greece,2017-12-31
+Kastellorizo,Settlement,29.5829,36.1435,12,2017,Mediterranean Sea Arrivals,1087,Greece,2018-01-08
+Leros,Settlement,26.8425,37.1467,12,2017,Mediterranean Sea Arrivals,862,Greece,2017-12-31
+Kos,Settlement,27.1667,36.8333,12,2017,Mediterranean Sea Arrivals,761,Greece,2017-12-31
+Other Islands,Settlement,25.48828125,36.94989178681279,12,2017,Mediterranean Sea Arrivals,569,Greece,2017-12-31
+Rhodes,Settlement,27.943725585938,36.186658626605,12,2017,Mediterranean Sea Arrivals,484,Greece,2017-12-31
+Crete,Province,25.059814453125,35.18278813800229,12,2017,Mediterranean Sea Arrivals,477,Greece,2017-12-31
+Tilos,Settlement,27.3742,36.4244,12,2017,Mediterranean Sea Arrivals,176,Greece,2017-12-31
+Kalymnos,Settlement,26.9811,36.9758,12,2017,Mediterranean Sea Arrivals,41,Greece,2017-12-31
+Symi,Settlement,27.8378,36.6125,12,2017,Mediterranean Sea Arrivals,28,Greece,2017-12-31
+Lesvos,Settlement,26.2766,39.2035,12,2018,Mediterranean Sea Arrivals,15034,Greece,2018-12-31
+Samos,Settlement,26.8,37.75,12,2018,Mediterranean Sea Arrivals,8544,Greece,2018-12-31
+Chios,Settlement,26.0244,38.4058,12,2018,Mediterranean Sea Arrivals,3828,Greece,2018-12-31
+Kos,Settlement,27.1667,36.8333,12,2018,Mediterranean Sea Arrivals,2662,Greece,2018-12-31
+Leros,Settlement,26.8425,37.1467,12,2018,Mediterranean Sea Arrivals,1336,Greece,2018-12-31
+Rhodes,Settlement,27.943725585938,36.186658626605,12,2018,Mediterranean Sea Arrivals,503,Greece,2018-12-31
+Kastellorizo,Settlement,29.5829,36.1435,12,2018,Mediterranean Sea Arrivals,248,Greece,2018-12-31
+Symi,Settlement,27.8378,36.6125,12,2018,Mediterranean Sea Arrivals,158,Greece,2018-12-31
+Crete,Province,25.059814453125,35.18278813800229,12,2018,Mediterranean Sea Arrivals,154,Greece,2018-12-31
+Kalymnos,Settlement,26.9811,36.9758,11,2018,Mediterranean Sea Arrivals,27,Greece,2018-11-30
+Lesvos,Settlement,26.2766,39.2035,12,2019,Mediterranean Sea Arrivals,27049,Greece,2019-12-31
+Samos,Settlement,26.8,37.75,12,2019,Mediterranean Sea Arrivals,10705,Greece,2019-12-31
+Chios,Settlement,26.0244,38.4058,12,2019,Mediterranean Sea Arrivals,8073,Greece,2019-12-31
+Kos,Settlement,27.1667,36.8333,12,2019,Mediterranean Sea Arrivals,5925,Greece,2019-12-31
+Leros,Settlement,26.8425,37.1467,12,2019,Mediterranean Sea Arrivals,4275,Greece,2019-12-31
+Symi,Settlement,27.8378,36.6125,12,2019,Mediterranean Sea Arrivals,2410,Greece,2019-12-31
+Kalymnos,Settlement,26.9811,36.9758,12,2019,Mediterranean Sea Arrivals,627,Greece,2019-12-31
+Rhodes,Settlement,27.943725585938,36.186658626605,12,2019,Mediterranean Sea Arrivals,337,Greece,2019-12-31
+Kastellorizo,Settlement,29.5829,36.1435,12,2019,Mediterranean Sea Arrivals,312,Greece,2019-12-31
+Other Islands,Settlement,25.48828125,36.94989178681279,12,2019,Mediterranean Sea Arrivals,13,Greece,2019-12-31
+Lesvos,Settlement,26.2766,39.2035,12,2020,Mediterranean Sea Arrivals,4700,Greece,2020-12-31
+Samos,Settlement,26.8,37.75,12,2020,Mediterranean Sea Arrivals,1473,Greece,2020-12-31
+Chios,Settlement,26.0244,38.4058,12,2020,Mediterranean Sea Arrivals,1140,Greece,2020-12-31
+Kos,Settlement,27.1667,36.8333,12,2020,Mediterranean Sea Arrivals,839,Greece,2020-12-31
+Leros,Settlement,26.8425,37.1467,12,2020,Mediterranean Sea Arrivals,560,Greece,2020-12-31
+Rhodes,Settlement,27.943725585938,36.186658626605,12,2020,Mediterranean Sea Arrivals,233,Greece,2020-12-31
+Other Islands,Settlement,25.48828125,36.94989178681279,12,2020,Mediterranean Sea Arrivals,232,Greece,2020-12-31
+Kastellorizo,Settlement,29.5829,36.1435,12,2020,Mediterranean Sea Arrivals,173,Greece,2020-12-31
+Crete,Province,25.059814453125,35.18278813800229,12,2020,Mediterranean Sea Arrivals,168,Greece,2020-12-31
+Kalymnos,Settlement,26.9811,36.9758,12,2020,Mediterranean Sea Arrivals,135,Greece,2020-12-31
+Symi,Settlement,27.8378,36.6125,12,2020,Mediterranean Sea Arrivals,61,Greece,2020-12-31
+Lesvos,Settlement,26.2766,39.2035,12,2021,Mediterranean Sea Arrivals,1553,Greece,2021-12-31
+Kos,Settlement,27.1667,36.8333,12,2021,Mediterranean Sea Arrivals,887,Greece,2021-12-31
+Chios,Settlement,26.0244,38.4058,12,2021,Mediterranean Sea Arrivals,534,Greece,2021-12-31
+Samos,Settlement,26.8,37.75,12,2021,Mediterranean Sea Arrivals,477,Greece,2021-12-31
+Other Islands,Settlement,25.48828125,36.94989178681279,12,2021,Mediterranean Sea Arrivals,466,Greece,2021-12-31
+Crete,Province,25.059814453125,35.18278813800229,12,2021,Mediterranean Sea Arrivals,185,Greece,2021-12-31
+Rhodes,Settlement,27.943725585938,36.186658626605,12,2021,Mediterranean Sea Arrivals,109,Greece,2021-12-31
+Leros,Settlement,26.8425,37.1467,12,2021,Mediterranean Sea Arrivals,52,Greece,2021-12-31
+Symi,Settlement,27.8378,36.6125,12,2021,Mediterranean Sea Arrivals,26,Greece,2021-12-31
+Kastellorizo,Settlement,29.5829,36.1435,12,2021,Mediterranean Sea Arrivals,3,Greece,2021-12-31
+Lesvos,Settlement,26.2766,39.2035,12,2022,Mediterranean Sea Arrivals,3482,Greece,2022-12-31
+Kos,Settlement,27.1667,36.8333,12,2022,Mediterranean Sea Arrivals,2139,Greece,2022-12-31
+Samos,Settlement,26.8,37.75,12,2022,Mediterranean Sea Arrivals,2120,Greece,2022-12-31
+Other Islands,Settlement,25.48828125,36.94989178681279,12,2022,Mediterranean Sea Arrivals,1828,Greece,2022-12-31
+Chios,Settlement,26.0244,38.4058,12,2022,Mediterranean Sea Arrivals,1217,Greece,2022-12-31
+Rhodes,Settlement,27.943725585938,36.186658626605,12,2022,Mediterranean Sea Arrivals,705,Greece,2022-12-31
+Leros,Settlement,26.8425,37.1467,12,2022,Mediterranean Sea Arrivals,618,Greece,2022-12-31
+Crete,Province,25.059814453125,35.18278813800229,12,2022,Mediterranean Sea Arrivals,558,Greece,2022-12-31
+Symi,Settlement,27.8378,36.6125,12,2022,Mediterranean Sea Arrivals,78,Greece,2022-12-31
+Kalymnos,Settlement,26.9811,36.9758,12,2022,Mediterranean Sea Arrivals,24,Greece,2022-12-31
+Kastellorizo,Settlement,29.5829,36.1435,12,2022,Mediterranean Sea Arrivals,1,Greece,2022-12-31
+Mainland Andalucia,Settlement,-4.4067250000001,36.672004921471,12,2014,Mediterranean Sea Arrivals,4264,Spain,2014-12-31
+Canary Islands,Settlement,-15.534415737500012,28.031173842579,12,2014,Mediterranean Sea Arrivals,296,Spain,2014-12-31
+Melilla,Settlement,-2.9383,35.2937,12,2014,Mediterranean Sea Arrivals,223,Spain,2014-12-31
+Ceuta,Settlement,-5.3075,35.8903,12,2014,Mediterranean Sea Arrivals,193,Spain,2014-12-31
+Mainland Andalucia,Settlement,-4.4067250000001,36.672004921471,12,2015,Mediterranean Sea Arrivals,4126,Spain,2015-12-31
+Canary Islands,Settlement,-15.534415737500012,28.031173842579,12,2015,Mediterranean Sea Arrivals,875,Spain,2015-12-31
+Ceuta,Settlement,-5.3075,35.8903,12,2015,Mediterranean Sea Arrivals,631,Spain,2015-12-31
+Mainland Eastern Mediterranean,Settlement,-0.4831,38.3453,12,2015,Mediterranean Sea Arrivals,300,Spain,2015-12-31
+Melilla,Settlement,-2.9383,35.2937,12,2015,Mediterranean Sea Arrivals,13,Spain,2015-12-31
+Mainland Andalucia,Settlement,-4.4067250000001,36.672004921471,12,2016,Mediterranean Sea Arrivals,6675,Spain,2016-12-31
+Mainland Eastern Mediterranean,Settlement,-0.4831,38.3453,12,2016,Mediterranean Sea Arrivals,674,Spain,2016-12-31
+Canary Islands,Settlement,-15.534415737500012,28.031173842579,12,2016,Mediterranean Sea Arrivals,672,Spain,2016-12-31
+Ceuta,Settlement,-5.3075,35.8903,12,2016,Mediterranean Sea Arrivals,441,Spain,2016-12-31
+Melilla,Settlement,-2.9383,35.2937,9,2016,Mediterranean Sea Arrivals,70,Spain,2016-09-30
+Mainland Andalucia,Settlement,-4.4067250000001,36.672004921471,12,2017,Mediterranean Sea Arrivals,18037,Spain,2017-12-31
+Mainland Eastern Mediterranean,Settlement,-0.4831,38.3453,12,2017,Mediterranean Sea Arrivals,2720,Spain,2017-12-31
+Melilla,Settlement,-2.9383,35.2937,12,2017,Mediterranean Sea Arrivals,681,Spain,2017-12-31
+Canary Islands,Settlement,-15.534415737500012,28.031173842579,12,2017,Mediterranean Sea Arrivals,418,Spain,2017-12-31
+Ceuta,Settlement,-5.3075,35.8903,12,2017,Mediterranean Sea Arrivals,247,Spain,2017-12-31
+Mainland Andalucia,Settlement,-4.4067250000001,36.672004921471,12,2018,Mediterranean Sea Arrivals,53492,Spain,2018-12-31
+Mainland Eastern Mediterranean,Settlement,-0.4831,38.3453,12,2018,Mediterranean Sea Arrivals,2408,Spain,2018-12-31
+Canary Islands,Settlement,-15.534415737500012,28.031173842579,12,2018,Mediterranean Sea Arrivals,1305,Spain,2018-12-31
+Melilla,Settlement,-2.9383,35.2937,12,2018,Mediterranean Sea Arrivals,918,Spain,2018-12-31
+Ceuta,Settlement,-5.3075,35.8903,12,2018,Mediterranean Sea Arrivals,446,Spain,2018-12-31
+Mainland Andalucia,Settlement,-4.4067250000001,36.672004921471,12,2019,Mediterranean Sea Arrivals,19706,Spain,2019-12-31
+Canary Islands,Settlement,-15.534415737500012,28.031173842579,12,2019,Mediterranean Sea Arrivals,2698,Spain,2019-12-31
+Mainland Eastern Mediterranean,Settlement,-0.4831,38.3453,12,2019,Mediterranean Sea Arrivals,1836,Spain,2019-12-31
+Melilla,Settlement,-2.9383,35.2937,12,2019,Mediterranean Sea Arrivals,906,Spain,2019-12-31
+Ceuta,Settlement,-5.3075,35.8903,12,2019,Mediterranean Sea Arrivals,606,Spain,2019-12-31
+Balearic Islands,Province,2.647705078125,39.58029027440875,12,2019,Mediterranean Sea Arrivals,416,Spain,2019-12-31
+Canary Islands,Settlement,-15.534415737500012,28.031173842579,12,2020,Mediterranean Sea Arrivals,23023,Spain,2020-12-31
+Mainland Andalucia,Settlement,-4.4067250000001,36.672004921471,12,2020,Mediterranean Sea Arrivals,10024,Spain,2020-12-31
+Mainland Eastern Mediterranean,Settlement,-0.4831,38.3453,12,2020,Mediterranean Sea Arrivals,5036,Spain,2020-12-31
+Balearic Islands,Province,2.647705078125,39.58029027440875,12,2020,Mediterranean Sea Arrivals,1550,Spain,2020-12-31
+Ceuta,Settlement,-5.3075,35.8903,12,2020,Mediterranean Sea Arrivals,528,Spain,2020-12-31
+Melilla,Settlement,-2.9383,35.2937,12,2020,Mediterranean Sea Arrivals,165,Spain,2020-12-31
+Canary Islands,Settlement,-15.534415737500012,28.031173842579,12,2021,Mediterranean Sea Arrivals,23042,Spain,2021-12-31
+Mainland Andalucia,Settlement,-4.4067250000001,36.672004921471,12,2021,Mediterranean Sea Arrivals,10555,Spain,2021-12-31
+Mainland Eastern Mediterranean,Settlement,-0.4831,38.3453,12,2021,Mediterranean Sea Arrivals,4370,Spain,2021-12-31
+Balearic Islands,Province,2.647705078125,39.58029027440875,12,2021,Mediterranean Sea Arrivals,2363,Spain,2021-12-31
+Ceuta,Settlement,-5.3075,35.8903,12,2021,Mediterranean Sea Arrivals,1428,Spain,2021-12-31
+Melilla,Settlement,-2.9383,35.2937,12,2021,Mediterranean Sea Arrivals,221,Spain,2021-12-31
+Canary Islands,Settlement,-15.534415737500012,28.031173842579,12,2022,Mediterranean Sea Arrivals,15682,Spain,2022-12-31
+Mainland Andalucia,Settlement,-4.4067250000001,36.672004921471,12,2022,Mediterranean Sea Arrivals,7195,Spain,2022-12-31
+Mainland Eastern Mediterranean,Settlement,-0.4831,38.3453,12,2022,Mediterranean Sea Arrivals,3229,Spain,2022-12-31
+Balearic Islands,Province,2.647705078125,39.58029027440875,12,2022,Mediterranean Sea Arrivals,2637,Spain,2022-12-31
+Ceuta,Settlement,-5.3075,35.8903,12,2022,Mediterranean Sea Arrivals,740,Spain,2022-12-31
+Melilla,Settlement,-2.9383,35.2937,12,2022,Mediterranean Sea Arrivals,412,Spain,2022-12-31
+Cyprus,Country,33.2193,35.0445,12,2016,Mediterranean Sea Arrivals,377,Cyprus,2016-12-31
+Cyprus,Country,33.2193,35.0445,12,2017,Mediterranean Sea Arrivals,1111,Cyprus,2017-12-31
+Cyprus,Country,33.2193,35.0445,12,2018,Mediterranean Sea Arrivals,766,Cyprus,2018-10-31
+Cyprus,Country,33.2193,35.0445,12,2019,Mediterranean Sea Arrivals,1660,Cyprus,2019-12-31
+Cyprus,Country,33.2193,35.0445,12,2020,Mediterranean Sea Arrivals,1674,Cyprus,2020-12-31
+Cyprus,Country,33.2193,35.0445,12,2021,Mediterranean Sea Arrivals,2877,Cyprus,2021-12-31
+Cyprus,Country,33.2193,35.0445,12,2022,Mediterranean Sea Arrivals,3952,Cyprus,2022-12-31
