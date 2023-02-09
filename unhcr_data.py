@@ -41,8 +41,8 @@ def read_and_tranform(geo_id, year):
 
 # Initialize arrays and dataframes
 year = np.arange(startY, endY+1, 1)
-geo_id = np.array([656, 640, 729, 616])
-country_names = np.array(['Italy', 'Greece', 'Spain', 'Cyprus'])
+geo_id = np.array([656, 640, 729, 616, 690])
+country_names = np.array(['Italy', 'Greece', 'Spain', 'Cyprus', 'Malta'])
 countries = {'country_name': country_names,
              'geo_id': geo_id}
 countries_df = pd.DataFrame(data=countries)
@@ -131,9 +131,12 @@ countries = gpd.read_file(gpd.datasets.get_path("naturalearth_lowres"))
 
 for i in country_names:
     fig, ax = plt.subplots(figsize=(8, 6))
-    countries[countries["name"] == i].plot(color="lightgrey", ax=ax)
-    subdata = data[data["country_name"] == i]
-    subdata['size'] = subdata['individuals']/100
+    if i == 'Malta':
+        countries[countries["name"] == 'Italy'].plot(color="lightgrey", ax=ax)
+    else:
+        countries[countries["name"] == i].plot(color="lightgrey", ax=ax)
+    subdata = data.loc[data["country_name"] == i]
+    subdata['size'] = subdata['individuals'].div(100)
     plot = subdata.plot(x="centroid_lon",
                         y="centroid_lat",
                         kind="scatter",
