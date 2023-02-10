@@ -56,3 +56,7 @@ The code additionally produces visualizations about total refugees disembarked
 and a map for yeach country with the location of the disembarkment places.
 
 Finally, an interactive visualization is produced and opened in browser.
+
+
+## Author
+[Vittorio Nicoletta[(https://twitter.com/vi__enne)
