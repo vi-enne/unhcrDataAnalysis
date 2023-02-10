@@ -59,4 +59,4 @@ Finally, an interactive visualization is produced and opened in browser.
 
 
 ## Author
-[Vittorio Nicoletta[(https://twitter.com/vi__enne)
+[Vittorio Nicoletta](https://twitter.com/vi__enne)
